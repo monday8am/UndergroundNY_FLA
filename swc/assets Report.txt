@@ -1,0 +1,596 @@
+﻿assets.swf Movie Report
+------------------------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+       590    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS5</xmp:CreatorTool> <xmp:CreateDate>2012-05-21T15:55:06+02:00</xmp:CreateDate> <xmp:MetadataDate>2013-06-07T18:16:17+02:00</xmp:MetadataDate> <xmp:ModifyDate>2013-06-07T18:16:17+02:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:InstanceID>xmp.iid:FD7F1174072068118A6DF252F3F971F9</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:FD7F1174072068118A6DF252F3F971F9</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:F77F117407206811822AD9C9DAF32FB2</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:F77F1174072068118A6DF252F3F971F9</stRef:instanceID> <stRef:documentID>xmp.did:F77F11740720681188C6A62B6D412134</stRef:documentID> <stRef:originalDocumentID>xmp.did:F77F117407206811822AD9C9DAF32FB2</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1        1430415        1430415    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                567263
+
+Symbol                    Shape Bytes    Text Bytes    ActionScript Bytes
+----------------------    -----------    ----------    ------------------
+a_letter_animation                  0             0                     0
+b_letter_animation                  0             0                     0
+c_letter_animation                  0             0                     0
+d_letter_animation                  0             0                     0
+e_letter_animation                  0             0                     0
+f_letter_animation                  0             0                     0
+g_letter_animation                  0             0                     0
+h_letter_animation                  0             0                     0
+i_letter_animation                  0             0                     0
+j_letter_animation                  0             0                     0
+k_letter_animation                  0             0                     0
+l_letter_animation                  0             0                     0
+letter                              0             0                     0
+m_letter_animation                  0             0                     0
+n_letter_animation                  0             0                     0
+o_letter_animation                  0             0                     0
+p_letter_animation                  0             0                     0
+q_letter_animation                  0             0                     0
+r_letter_animation                  0             0                     0
+s_letter_animation                  0             0                     0
+space_letter_animation              0             0                     0
+spaces_map_all                      0             0                     0
+spaces_gifs                         0             0                     0
+t_letter_animation                  0             0                     0
+u_letter_animation                  0             0                     0
+v_letter_animation                  0             0                     0
+w_letter_animation                  0             0                     0
+x_letter_animation                  0             0                     0
+y_letter_animation                  0             0                     0
+z_letter_animation                  0             0                     0
+about_btn                          25             0                     0
+contact_btn                        26           147                     0
+credit_btn                         25             0                     0
+font_btn                            0             0                     0
+preview_btn                        52             0                     0
+send_btn                            0             0                     0
+share_email_btn                    24             0                     0
+share_facebook_mc                  16             0                     0
+share_twitter_mc                    0             0                     0
+start_btn                          97             0                     0
+a_mapLetter                       401             0                     0
+b_letterMap                       447             0                     0
+c_letterMap                       240             0                     0
+d_letterMap                       158             0                     0
+e_letterMap                       233             0                     0
+f_letterMap                       189             0                     0
+g_letterMap                       314             0                     0
+h_letterMap                       398             0                     0
+i_letterMap                       134             0                     0
+j_letterMap                       192             0                     0
+k_letterMap                       394             0                     0
+l_letterMap                       163             0                     0
+m_letterMap                       455             0                     0
+n_letterMap                       338             0                     0
+o_letterMap                       313             0                     0
+p_letterMap                       379             0                     0
+q_letterMap                       396             0                     0
+r_letterMap                       322             0                     0
+s_letterMap                       153             0                     0
+space_letterMap                    27             0                     0
+t_letterMap                       212             0                     0
+u_letterMap                       235             0                     0
+v_letterMap                       250             0                     0
+w_letterMap                       320             0                     0
+x_letterMap                       260             0                     0
+y_letterMap                       191             0                     0
+z_letterMap                       318             0                     0
+a_container                         0             0                     0
+about_assets_mc                     0           426                     0
+app_logo                          647             0                     0
+bg                                  0             0                     0
+btn_preview                        34             0                     0
+button_bg                          16             0                     0
+buttons_bg                         25            30                     0
+contact_assets_mc                   0             0                     0
+contact_btn                        26           147                     0
+copyright                           0            48                     0
+create_assets_mc                    0           111                     0
+create_textbox_bg                  35             0                     0
+write_banner_mc                     0             0                     0
+credits_assets_mc                 729          1297                     0
+cross                               0             0                     0
+e_email                             0             0                     0
+edit_btn                           48            26                     0
+email_box                          57            52                     0
+error_msg_mc                        0            76                     0
+f_facebook                          0             0                     0
+finalVideo_screen                  19             0                     0
+font_assets_mc                      0             0                     0
+font_swittcher_btn                 64             0                     0
+font_map_game                       0            64                     0
+fonts_images_mc                     0             0                     0
+mask_mc                            19             0                     0
+metro_map_mc                        0             0                     0
+fullscreen_btn                    102             0                     0
+hidenav_mc                         18             0                     0
+intro_assets_mc                     0             0                     0
+intro_text                          0             0                     0
+letter_animation                    0             0                     0
+letter_mc                          26            81                     0
+map_mc                              0             0                     0
+mapBg                               0             0                     0
+music_btn                          87             0                     0
+nav_assets                          0             0                     0
+new_btn                           447             0                     0
+new_note_btn                       50            34                     0
+play_again_btn                    114             0                     0
+play_btn                           63             0                     0
+seekerMask                          0             0                     0
+send_email_btn                     64            50                     0
+share_assets_mc                     0             0                     0
+t_twitter                           0             0                     0
+videoSeeker                         0             0                     0
+sponsors_mc                         0             0                     0
+video_btn_bg                       29             0                     0
+volume_btn                         67             0                     0
+videoTimer_mc                       0             0                     0
+videoTimerPrev_mc                  35             0                     0
+write_mc                            0            39                     0
+
+Font Name                  Bytes         Characters
+-----------------------    ----------    ----------
+HelveticaNeue-Bold Bold          7891     ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.0123456789!"#$%&'()*+,-/:;<=>?@[\]^_`{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™áéíóúÁÉÍÓÚñÑ 
+Helvetica-Light                  2788    Contac: hel@frmudg.HFU©2013 
+Helvetica                        3217    Send yourmsagfthNwYkCil.Apb26c'q‬ 
+ArialMT                          7623     ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.0123456789!"#$%&'()*+,-/:;<=>?@[\]^_`{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™ 
+Arial-BoldMT                     7386     ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.0123456789!"#$%&'()*+,-/:;<=>?@[\]^_`{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™ 
+HelveticaNeue                    3024    Play ginWrtems 
+ArialUnicodeMS                    123    ﾠ
+Helvetica                        2977     ',.012:@ABCDEFGHIJKLMNOPQRSTUVWYZabcdefghijklmnopqrstuvwxyz ©
+HelveticaNeue                    1315     Waeghimorstuy 
+ArialMT                          5886     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+Arial-BoldMT Bold                5748     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+_sans                              12    
+HelveticaNeue-Bold Bold          8019     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ÁÉÍÑÓÚáéíñóúˆ˜–—‘’‚“”„†‡•…‰‹›€™
+
+ActionScript Bytes    Location
+------------------    --------
+               121    Scene 1:Frame 1:flashx.textLayout.tlf_internal
+               531    Scene 1:Frame 1:fl.text.RuntimeFontMapper
+              4234    Scene 1:Frame 1:fl.timeline.TimelineManager
+               940    Scene 1:Frame 1:fl.timeline.timelineManager.InstanceInfo
+              4447    Scene 1:Frame 1:flashx.textLayout.formats.ITextLayoutFormat
+              3572    Scene 1:Frame 1:fl.text.IContainerManager
+               819    Scene 1:Frame 1:flashx.textLayout.conversion.ITextImporter
+               949    Scene 1:Frame 1:flashx.textLayout.edit.SelectionFormat
+               643    Scene 1:Frame 1:flashx.textLayout.elements.IFormatResolver
+              2269    Scene 1:Frame 1:flashx.textLayout.compose.IFlowComposer
+               963    Scene 1:Frame 1:fl.text.TLFRuntimeTabManager
+               327    Scene 1:Frame 1:flashx.textLayout.edit.EditingMode
+               292    Scene 1:Frame 1:flashx.textLayout.formats.Direction
+               300    Scene 1:Frame 1:flashx.textLayout.formats.BackgroundColor
+              2098    Scene 1:Frame 1:flashx.textLayout.elements.GlobalSettings
+              1734    Scene 1:Frame 1:flashx.textLayout.elements.IConfiguration
+              1767    Scene 1:Frame 1:flashx.textLayout.conversion.TextConverter
+               299    Scene 1:Frame 1:flashx.textLayout.formats.LineBreak
+               429    Scene 1:Frame 1:flashx.textLayout.elements.InlineGraphicElementStatus
+               313    Scene 1:Frame 1:flashx.textLayout.formats.BlockProgression
+               330    Scene 1:Frame 1:flashx.textLayout.formats.WhiteSpaceCollapse
+               327    Scene 1:Frame 1:flashx.textLayout.conversion.ConversionType
+               315    Scene 1:Frame 1:flashx.textLayout.formats.TextDecoration
+               351    Scene 1:Frame 1:flashx.textLayout.formats.VerticalAlign
+               528    Scene 1:Frame 1:flashx.textLayout.formats.LeadingModel
+               323    Scene 1:Frame 1:flashx.textLayout.formats.FormatValue
+              1777    Scene 1:Frame 1:flashx.textLayout.edit.IInteractionEventHandler
+               544    Scene 1:Frame 1:flashx.textLayout.container.ISandboxSupport
+               332    Scene 1:Frame 1:flashx.textLayout.compose.ISWFContext
+               501    Scene 1:Frame 1:flashx.textLayout.formats.ITabStopFormat
+               284    Scene 1:Frame 1:flashx.undo.IOperation
+               749    Scene 1:Frame 1:flashx.textLayout.compose.IVerticalJustificationLine
+              1122    Scene 1:Frame 1:flashx.textLayout.elements.TextRange
+              4966    Scene 1:Frame 1:fl.text.CommonTextContainerManager
+              1875    Scene 1:Frame 1:flashx.textLayout.elements.BackgroundManager
+              3136    Scene 1:Frame 1:flashx.textLayout.factory.TextLineFactoryBase
+              3126    Scene 1:Frame 1:flashx.textLayout.compose.FlowComposerBase
+               615    Scene 1:Frame 1:flashx.textLayout.conversion.FormatDescriptor
+               690    Scene 1:Frame 1:flashx.textLayout.conversion.ITextExporter
+              2391    Scene 1:Frame 1:flashx.textLayout.edit.ElementRange
+               828    Scene 1:Frame 1:flashx.textLayout.factory.TruncationOptions
+              5494    Scene 1:Frame 1:flashx.textLayout.property.Property
+               579    Scene 1:Frame 1:flashx.textLayout.compose.FloatCompositionData
+              2297    Scene 1:Frame 1:flashx.textLayout.container.ColumnState
+              4342    Scene 1:Frame 1:flashx.textLayout.events.FlowElementMouseEventManager
+               368    Scene 1:Frame 1:flashx.textLayout.edit.Mark
+               824    Scene 1:Frame 1:flashx.undo.IUndoManager
+              1238    Scene 1:Frame 1:flashx.textLayout.edit.TextScrap
+               314    Scene 1:Frame 1:flashx.textLayout.edit.IMemento
+               599    Scene 1:Frame 1:flashx.textLayout.edit.ElementMark
+               423    Scene 1:Frame 1:flashx.textLayout.container.ScrollPolicy
+               832    Scene 1:Frame 1:flashx.textLayout.compose.TextLineRecycler
+               317    Scene 1:Frame 1:flashx.textLayout.compose.FlowDamageType
+               421    Scene 1:Frame 1:flashx.textLayout.formats.TLFTypographicCase
+               324    Scene 1:Frame 1:flashx.textLayout.formats.ListStylePosition
+               326    Scene 1:Frame 1:flashx.textLayout.formats.JustificationRule
+               318    Scene 1:Frame 1:flashx.textLayout.formats.BaselineShift
+               338    Scene 1:Frame 1:flashx.textLayout.formats.BaselineOffset
+               392    Scene 1:Frame 1:flashx.textLayout.formats.Category
+               311    Scene 1:Frame 1:flashx.textLayout.formats.TextJustify
+              1127    Scene 1:Frame 1:flashx.textLayout.formats.ListStyleType
+               380    Scene 1:Frame 1:flashx.textLayout.formats.ClearFloats
+               378    Scene 1:Frame 1:flashx.textLayout.formats.TextAlign
+               497    Scene 1:Frame 1:flashx.textLayout.events.ModelChange
+               324    Scene 1:Frame 1:flashx.textLayout.elements.OverflowPolicy
+               340    Scene 1:Frame 1:flashx.textLayout.formats.Float
+               627    Scene 1:Frame 1:flashx.textLayout.utils.Twips
+               335    Scene 1:Frame 1:flashx.textLayout.events.ScrollEventDirection
+               688    Scene 1:Frame 1:flashx.textLayout.utils.CharacterUtil
+              1874    Scene 1:Frame 1:flashx.textLayout.utils.LocaleUtil
+               488    Scene 1:Frame 1:flashx.textLayout.formats.IMEStatus
+               358    Scene 1:Frame 1:flashx.textLayout.edit.SelectionFormatState
+              2732    Scene 1:Frame 1:flashx.textLayout.edit.TextClipboard
+              7561    Scene 1:Frame 1:flashx.textLayout.utils.NavigationUtil
+               365    Scene 1:Frame 1:flashx.textLayout.elements.LinkState
+               361    Scene 1:Frame 1:flashx.textLayout.compose.TextFlowLineLocation
+              6034    Scene 1:Frame 1:flashx.textLayout.edit.TextFlowEdit
+               862    Scene 1:Frame 1:flashx.textLayout.conversion.ConverterBase
+              4607    Scene 1:Frame 1:flashx.textLayout.edit.ParaEdit
+               887    Scene 1:Frame 1:flash.text.ime.IIMEClient
+               472    Scene 1:Frame 1:flashx.textLayout.conversion.IFormatImporter
+               654    Scene 1:Frame 1:flashx.textLayout.property.PropertyHandler
+              1316    Scene 1:Frame 1:flashx.textLayout.utils.HitTestArea
+               384    Scene 1:Frame 1:flash.text.ime.CompositionAttributeRange
+              3162    Scene 1:Frame 1:flashx.textLayout.compose.Parcel
+              3941    Scene 1:Frame 1:flashx.textLayout.compose.ParcelList
+               332    Scene 1:Frame 1:flashx.textLayout.compose.Slug
+               625    Scene 1:Frame 1:flashx.textLayout.conversion.FlowElementInfo
+               806    Scene 1:Frame 1:flashx.textLayout.conversion.ImportExportConfiguration
+               957    Scene 1:Frame 1:flashx.textLayout.utils.GeometryUtil
+              3679    Scene 1:Frame 1:flashx.textLayout.compose.VerticalJustifier
+               631    Scene 1:Frame 1:flashx.textLayout.TextLayoutVersion
+               284    Scene 1:Frame 1:flashx.textLayout.formats.Suffix
+               157    Scene 1:Frame 1:assets_fla.Arial_bold_33
+               161    Scene 1:Frame 1:assets_fla.Arial_regular_34
+               150    Scene 1:Frame 1:assets_fla.Font1_37
+               149    Scene 1:Frame 1:assets_fla.Font_32
+               149    Scene 1:Frame 1:assets_fla.Font_35
+               149    Scene 1:Frame 1:assets_fla.Font_36
+               832    Scene 1:Frame 1:flashx.textLayout.events.StatusChangeEvent
+               859    Scene 1:Frame 1:flashx.textLayout.events.FlowElementMouseEvent
+               412    Scene 1:Frame 1:flashx.textLayout.events.TextLayoutEvent
+               734    Scene 1:Frame 1:flashx.textLayout.events.UpdateCompleteEvent
+               899    Scene 1:Frame 1:flashx.textLayout.events.CompositionCompleteEvent
+               897    Scene 1:Frame 1:flashx.textLayout.events.FlowOperationEvent
+               572    Scene 1:Frame 1:flashx.textLayout.events.SelectionEvent
+               650    Scene 1:Frame 1:flashx.textLayout.events.DamageEvent
+              1981    Scene 1:Frame 1:flashx.textLayout.accessibility.TextAccImpl
+              3934    Scene 1:Frame 1:fl.text.TCMRuntimeManager
+              3930    Scene 1:Frame 1:fl.text.RuntimeManager
+             17119    Scene 1:Frame 1:flashx.textLayout.formats.TextLayoutFormat
+             17962    Scene 1:Frame 1:flashx.textLayout.elements.FlowElement
+               648    Scene 1:Frame 1:flashx.textLayout.formats.IListMarkerFormat
+               445    Scene 1:Frame 1:flashx.textLayout.conversion.ITextLayoutImporter
+               684    Scene 1:Frame 1:flashx.textLayout.conversion.IHTMLImporter
+              1700    Scene 1:Frame 1:fl.text.CSSFormatResolver
+              4316    Scene 1:Frame 1:flashx.textLayout.elements.Configuration
+              2240    Scene 1:Frame 1:flashx.textLayout.edit.ISelectionManager
+             18198    Scene 1:Frame 1:flashx.textLayout.compose.BaseCompose
+              2137    Scene 1:Frame 1:flashx.textLayout.formats.TabStopFormat
+              1173    Scene 1:Frame 1:flashx.textLayout.operations.FlowOperation
+               825    Scene 1:Frame 1:flashx.textLayout.edit.SelectionState
+              4188    Scene 1:Frame 1:fl.text.MultiTextContainerManager
+              9128    Scene 1:Frame 1:fl.text.SingleTextContainerManager
+              2322    Scene 1:Frame 1:flashx.textLayout.factory.TextFlowTextLineFactory
+              3781    Scene 1:Frame 1:flashx.textLayout.factory.StringTextLineFactory
+              5175    Scene 1:Frame 1:flashx.textLayout.compose.StandardFlowComposer
+               579    Scene 1:Frame 1:flashx.textLayout.conversion.IPlainTextExporter
+              1730    Scene 1:Frame 1:flashx.textLayout.property.ArrayProperty
+              1230    Scene 1:Frame 1:flashx.undo.UndoManager
+              6247    Scene 1:Frame 1:flashx.textLayout.edit.ModelEdit
+               647    Scene 1:Frame 1:flashx.textLayout.edit.MementoList
+              5119    Scene 1:Frame 1:flashx.textLayout.conversion.TextFieldHtmlExporter
+               954    Scene 1:Frame 1:flashx.textLayout.conversion.PlainTextImporter
+              5687    Scene 1:Frame 1:flashx.textLayout.conversion.BaseTextLayoutImporter
+              3499    Scene 1:Frame 1:flashx.textLayout.conversion.BaseTextLayoutExporter
+              3675    Scene 1:Frame 1:flashx.textLayout.edit.IMEClient
+               691    Scene 1:Frame 1:flashx.textLayout.conversion.TLFormatImporter
+               586    Scene 1:Frame 1:flashx.textLayout.conversion.CustomFormatImporter
+               579    Scene 1:Frame 1:flashx.textLayout.conversion.SingletonAttributeImporter
+               530    Scene 1:Frame 1:flashx.textLayout.property.EnumPropertyHandler
+               908    Scene 1:Frame 1:flashx.textLayout.property.NumberPropertyHandler
+               579    Scene 1:Frame 1:flashx.textLayout.property.FormatPropertyHandler
+               417    Scene 1:Frame 1:flashx.textLayout.property.BooleanPropertyHandler
+               775    Scene 1:Frame 1:flashx.textLayout.property.UintPropertyHandler
+               395    Scene 1:Frame 1:flashx.textLayout.property.StringPropertyHandler
+               813    Scene 1:Frame 1:flashx.textLayout.property.IntPropertyHandler
+               827    Scene 1:Frame 1:flashx.textLayout.property.PercentPropertyHandler
+               463    Scene 1:Frame 1:flashx.textLayout.property.UndefinedPropertyHandler
+              1284    Scene 1:Frame 1:flashx.textLayout.property.SpacingLimitPropertyHandler
+               913    Scene 1:Frame 1:flashx.textLayout.property.CounterPropHandler
+              2007    Scene 1:Frame 1:flashx.textLayout.property.CounterContentHandler
+               796    Scene 1:Frame 1:flashx.textLayout.events.FlowElementEventDispatcher
+             37843    Scene 1:Frame 1:flashx.textLayout.container.ContainerController
+               439    Scene 1:Frame 1:flashx.textLayout.events.ScrollEvent
+               799    Scene 1:Frame 1:flashx.textLayout.elements.FlowValueHolder
+              1251    Scene 1:Frame 1:flashx.textLayout.edit.PointFormat
+              7705    Scene 1:Frame 1:flashx.textLayout.elements.FlowLeafElement
+              6276    Scene 1:Frame 1:flashx.textLayout.elements.FlowGroupElement
+              3112    Scene 1:Frame 1:flashx.textLayout.formats.ListMarkerFormat
+             13068    Scene 1:Frame 1:flashx.textLayout.edit.SelectionManager
+              3230    Scene 1:Frame 1:flashx.textLayout.edit.IEditManager
+              4147    Scene 1:Frame 1:flashx.textLayout.compose.SimpleCompose
+              3840    Scene 1:Frame 1:flashx.textLayout.compose.ComposeState
+               817    Scene 1:Frame 1:flashx.textLayout.operations.FlowTextOperation
+               431    Scene 1:Frame 1:flashx.textLayout.operations.UndoOperation
+              1405    Scene 1:Frame 1:flashx.textLayout.operations.CompositeOperation
+               436    Scene 1:Frame 1:flashx.textLayout.operations.RedoOperation
+             19324    Scene 1:Frame 1:flashx.textLayout.compose.TextFlowLine
+              1114    Scene 1:Frame 1:flashx.textLayout.factory.FactoryDisplayComposer
+              1123    Scene 1:Frame 1:flashx.textLayout.conversion.PlainTextExporter
+              1642    Scene 1:Frame 1:flashx.textLayout.property.TabStopsProperty
+              4946    Scene 1:Frame 1:flashx.textLayout.conversion.TextLayoutImporter
+              2257    Scene 1:Frame 1:flashx.textLayout.conversion.TextLayoutExporter
+             11297    Scene 1:Frame 1:flashx.textLayout.conversion.TextFieldHtmlImporter
+              2279    Scene 1:Frame 1:fl.text.container.TLFContainerController
+              8975    Scene 1:Frame 1:flashx.textLayout.elements.InlineGraphicElement
+              3967    Scene 1:Frame 1:flashx.textLayout.elements.SpanElement
+               407    Scene 1:Frame 1:flashx.textLayout.elements.ParagraphFormattedElement
+              3011    Scene 1:Frame 1:flashx.textLayout.elements.SubParagraphGroupElementBase
+             11671    Scene 1:Frame 1:flashx.textLayout.edit.EditManager
+              1581    Scene 1:Frame 1:flashx.textLayout.operations.PasteOperation
+              2487    Scene 1:Frame 1:flashx.textLayout.operations.InsertTextOperation
+               702    Scene 1:Frame 1:flashx.textLayout.operations.CutOperation
+              1311    Scene 1:Frame 1:flashx.textLayout.operations.DeleteTextOperation
+              1452    Scene 1:Frame 1:flashx.textLayout.operations.SplitElementOperation
+              1821    Scene 1:Frame 1:flashx.textLayout.operations.InsertInlineGraphicOperation
+              1379    Scene 1:Frame 1:flashx.textLayout.operations.ApplyLinkOperation
+              1556    Scene 1:Frame 1:flashx.textLayout.operations.MoveChildrenOperation
+              2013    Scene 1:Frame 1:flashx.textLayout.operations.CreateListOperation
+              1802    Scene 1:Frame 1:flashx.textLayout.operations.CreateDivOperation
+              1154    Scene 1:Frame 1:flashx.textLayout.operations.ApplyTCYOperation
+              1910    Scene 1:Frame 1:flashx.textLayout.operations.CreateSubParagraphGroupOperation
+              1943    Scene 1:Frame 1:flashx.textLayout.operations.ApplyFormatOperation
+               612    Scene 1:Frame 1:flashx.textLayout.operations.CopyOperation
+              1426    Scene 1:Frame 1:flashx.textLayout.operations.ModifyInlineGraphicOperation
+              1907    Scene 1:Frame 1:flashx.textLayout.operations.ClearFormatOperation
+              1700    Scene 1:Frame 1:flashx.textLayout.operations.FlowElementOperation
+             19211    Scene 1:Frame 1:flashx.textLayout.container.TextContainerManager
+               690    Scene 1:Frame 1:flashx.textLayout.elements.SpecialCharacterElement
+              6492    Scene 1:Frame 1:flashx.textLayout.elements.ParagraphElement
+               828    Scene 1:Frame 1:flashx.textLayout.elements.ContainerFormattedElement
+              1683    Scene 1:Frame 1:flashx.textLayout.elements.TCYElement
+              3863    Scene 1:Frame 1:flashx.textLayout.elements.LinkElement
+               894    Scene 1:Frame 1:flashx.textLayout.elements.SubParagraphGroupElement
+               599    Scene 1:Frame 1:flashx.textLayout.operations.SplitParagraphOperation
+               899    Scene 1:Frame 1:flashx.textLayout.operations.ApplyFormatToElementOperation
+               807    Scene 1:Frame 1:flashx.textLayout.operations.ApplyElementIDOperation
+               843    Scene 1:Frame 1:flashx.textLayout.operations.ApplyElementTypeNameOperation
+              1050    Scene 1:Frame 1:flashx.textLayout.operations.ClearFormatOnElementOperation
+              1899    Scene 1:Frame 1:fl.text.TLFTextContainerManager
+              1191    Scene 1:Frame 1:assets_fla.new_btn_52
+              1198    Scene 1:Frame 1:assets_fla.play_again_btn_51
+              1107    Scene 1:Frame 1:assets_fla.preview_btn_64
+               483    Scene 1:Frame 1:flashx.textLayout.elements.BreakElement
+               474    Scene 1:Frame 1:flashx.textLayout.elements.TabElement
+              6882    Scene 1:Frame 1:flashx.textLayout.elements.TextFlow
+              6493    Scene 1:Frame 1:flashx.textLayout.elements.ListElement
+               454    Scene 1:Frame 1:flashx.textLayout.elements.DivElement
+              1379    Scene 1:Frame 1:flashx.textLayout.elements.ListItemElement
+              3285    Scene 1:Frame 1:fl.text.TCMText
+             24990    Scene 1:Frame 1:fl.text.TLFTextField
+               313    Scene 1:Frame 1:fl.text.DynamicSprite
+               282    Scene 1:Frame 1:a_letter_animation
+               201    Scene 1:Frame 1:about_assets_mc
+              1690    Scene 1:Frame 1:assets_fla.about_btn_71
+              1090    Scene 1:Frame 1:assets_fla.btn_preview_65
+              1694    Scene 1:Frame 1:assets_fla.credit_btn_72
+               276    Scene 1:Frame 1:assets_fla.error_msg_mc_49
+              1688    Scene 1:Frame 1:assets_fla.font_btn_70
+               284    Scene 1:Frame 1:assets_fla.font_swittcher_btn_58
+              1736    Scene 1:Frame 1:assets_fla.intro_text_75
+               270    Scene 1:Frame 1:assets_fla.music_btn_4
+               269    Scene 1:Frame 1:assets_fla.play_btn_8
+               348    Scene 1:Frame 1:assets_fla.spaces_gifs_98
+               352    Scene 1:Frame 1:assets_fla.spaces_map_all_97
+               272    Scene 1:Frame 1:assets_fla.volume_btn_9
+               282    Scene 1:Frame 1:b_letter_animation
+               282    Scene 1:Frame 1:c_letter_animation
+              1718    Scene 1:Frame 1:contact_assets_mc
+               195    Scene 1:Frame 1:copyright
+               291    Scene 1:Frame 1:create_assets_mc
+               368    Scene 1:Frame 1:credits_assets_mc
+               282    Scene 1:Frame 1:d_letter_animation
+               282    Scene 1:Frame 1:e_letter_animation
+               282    Scene 1:Frame 1:f_letter_animation
+               262    Scene 1:Frame 1:font_assets_mc
+               251    Scene 1:Frame 1:fullscreen_btn
+               282    Scene 1:Frame 1:g_letter_animation
+               282    Scene 1:Frame 1:h_letter_animation
+               282    Scene 1:Frame 1:i_letter_animation
+               237    Scene 1:Frame 1:intro_assets_mc
+               282    Scene 1:Frame 1:j_letter_animation
+               282    Scene 1:Frame 1:k_letter_animation
+               282    Scene 1:Frame 1:l_letter_animation
+               221    Scene 1:Frame 1:letter_mc
+               282    Scene 1:Frame 1:m_letter_animation
+               282    Scene 1:Frame 1:n_letter_animation
+               251    Scene 1:Frame 1:nav_assets
+               282    Scene 1:Frame 1:o_letter_animation
+               282    Scene 1:Frame 1:p_letter_animation
+               282    Scene 1:Frame 1:q_letter_animation
+               282    Scene 1:Frame 1:r_letter_animation
+               282    Scene 1:Frame 1:s_letter_animation
+               407    Scene 1:Frame 1:share_assets_mc
+               286    Scene 1:Frame 1:space_letter_animation
+               249    Scene 1:Frame 1:sponsors_mc
+               282    Scene 1:Frame 1:t_letter_animation
+               282    Scene 1:Frame 1:u_letter_animation
+               282    Scene 1:Frame 1:v_letter_animation
+               273    Scene 1:Frame 1:videoSeeker
+              1156    Scene 1:Frame 1:videoTimerPrev_mc
+              1153    Scene 1:Frame 1:videoTimer_mc
+               282    Scene 1:Frame 1:w_letter_animation
+               282    Scene 1:Frame 1:x_letter_animation
+               282    Scene 1:Frame 1:y_letter_animation
+               282    Scene 1:Frame 1:z_letter_animation
+
+Bitmap           Compressed    Original      Compression
+-------------    ----------    ----------    -----------
+z4.jpg                  636         27140    JPEG Quality=60
+z1.jpg                  522         27140    JPEG Quality=60
+z2.jpg                  592         27140    JPEG Quality=60
+z3.jpg                  449         27140    JPEG Quality=60
+y4.jpg                  624         27140    JPEG Quality=60
+y1.jpg                  654         27140    JPEG Quality=60
+y2.jpg                  775         27140    JPEG Quality=60
+y3.jpg                  751         27140    JPEG Quality=60
+x4.jpg                  570         27140    JPEG Quality=60
+x1.jpg                 1188         27140    JPEG Quality=60
+x2.jpg                  750         27140    JPEG Quality=60
+x3.jpg                  756         27140    JPEG Quality=60
+w4.jpg                  712         27140    JPEG Quality=60
+w1.jpg                  593         27140    JPEG Quality=60
+w2.jpg                  727         27140    JPEG Quality=60
+w3.jpg                  792         27140    JPEG Quality=60
+v4.jpg                  610         27140    JPEG Quality=60
+v1.jpg                  442         27140    JPEG Quality=60
+v2.jpg                  495         27140    JPEG Quality=60
+v3.jpg                  725         27140    JPEG Quality=60
+u4.jpg                 3412         27140    Imported JPEG=102
+u3.jpg                11947         27140    Imported JPEG=102
+u2.jpg                11728         27140    Imported JPEG=102
+u1.jpg                13487         27140    Imported JPEG=102
+t4.jpg                  455         27140    JPEG Quality=60
+t1.jpg                  836         27140    JPEG Quality=60
+t2.jpg                  600         27140    JPEG Quality=60
+t3.jpg                  639         27140    JPEG Quality=60
+MAP01.jpg              9802         27140    Imported JPEG=102
+MAP02.jpg             10807         27140    Imported JPEG=102
+MAP03.jpg              8869         27140    Imported JPEG=102
+MAP04.jpg              9259         27140    Imported JPEG=102
+MAP05.jpg              8721         27140    Imported JPEG=102
+MAP06.jpg              8600         27140    Imported JPEG=102
+MAP07.jpg              8601         27140    Imported JPEG=102
+MAP08.jpg              8369         27140    Imported JPEG=102
+MAP09.jpg             10301         27140    Imported JPEG=102
+MAP10.jpg              8479         27140    Imported JPEG=102
+MAP11.jpg             10453         27140    Imported JPEG=102
+MAP12.jpg             10848         27140    Imported JPEG=102
+MAP13.jpg              8590         27140    Imported JPEG=102
+MAP14.jpg              9899         27140    Imported JPEG=102
+MAP15.jpg             10195         27140    Imported JPEG=102
+MAP16.jpg             10292         27140    Imported JPEG=102
+MAP17.jpg             10203         27140    Imported JPEG=102
+MAP18.jpg             10209         27140    Imported JPEG=102
+MAP19.jpg             10273         27140    Imported JPEG=102
+MAP20.jpg              8397         27140    Imported JPEG=102
+MAP21.jpg             10188         27140    Imported JPEG=102
+MAP22.jpg              9558         27140    Imported JPEG=102
+MAP23.jpg             10422         27140    Imported JPEG=102
+01.jpg                 9688         27140    Imported JPEG=102
+04.jpg                10173         27140    Imported JPEG=102
+02.jpg                 8382         27140    Imported JPEG=102
+03.jpg                 8718         27140    Imported JPEG=102
+05.jpg                 9931         27140    Imported JPEG=102
+06.jpg                 9823         27140    Imported JPEG=102
+07.jpg                 9774         27140    Imported JPEG=102
+08.jpg                 8032         27140    Imported JPEG=102
+09.jpg                 9405         27140    Imported JPEG=102
+10.jpg                 9028         27140    Imported JPEG=102
+11.jpg                 8954         27140    Imported JPEG=102
+12.jpg                 7971         27140    Imported JPEG=102
+13.jpg                 8877         27140    Imported JPEG=102
+14.jpg                 9180         27140    Imported JPEG=102
+15.jpg                 8764         27140    Imported JPEG=102
+16.jpg                10041         27140    Imported JPEG=102
+17.jpg                 8251         27140    Imported JPEG=102
+18.jpg                 9175         27140    Imported JPEG=102
+19.jpg                 9795         27140    Imported JPEG=102
+20.jpg                 8920         27140    Imported JPEG=102
+21.jpg                10028         27140    Imported JPEG=102
+22.jpg                 8360         27140    Imported JPEG=102
+23.jpg                 8849         27140    Imported JPEG=102
+s4.jpg                  658         27140    JPEG Quality=60
+s1.jpg                  720         27140    JPEG Quality=60
+s2.jpg                  807         27140    JPEG Quality=60
+s3.jpg                  802         27140    JPEG Quality=60
+r4.jpg                  672         27140    JPEG Quality=60
+r1.jpg                  672         27140    JPEG Quality=60
+r2.jpg                  782         27140    JPEG Quality=60
+r3.jpg                  801         27140    JPEG Quality=60
+q4.jpg                  663         27140    JPEG Quality=60
+q1.jpg                 1067         27140    JPEG Quality=60
+q2.jpg                  585         27140    JPEG Quality=60
+q3.jpg                  930         27140    JPEG Quality=60
+p4.jpg                  567         27140    JPEG Quality=60
+p1.jpg                  782         27140    JPEG Quality=60
+p2.jpg                  650         27140    JPEG Quality=60
+p3.jpg                  907         27140    JPEG Quality=60
+o4.jpg                  662         27140    JPEG Quality=60
+o1.jpg                  798         27140    JPEG Quality=60
+o2.jpg                  791         27140    JPEG Quality=60
+o3.jpg                  659         27140    JPEG Quality=60
+n4.jpg                  656         27140    JPEG Quality=60
+n1.jpg                  819         27140    JPEG Quality=60
+n2.jpg                  870         27140    JPEG Quality=60
+n3.jpg                  589         27140    JPEG Quality=60
+m4.jpg                  840         27140    JPEG Quality=60
+m1.jpg                  864         27140    JPEG Quality=60
+m2.jpg                  985         27140    JPEG Quality=60
+m3.jpg                  823         27140    JPEG Quality=60
+l4.jpg                  680         27140    JPEG Quality=60
+l1.jpg                  694         27140    JPEG Quality=60
+l2.jpg                  673         27140    JPEG Quality=60
+l3.jpg                  663         27140    JPEG Quality=60
+k4.jpg                  711         27140    JPEG Quality=60
+k1.jpg                 1108         27140    JPEG Quality=60
+k2.jpg                 1139         27140    JPEG Quality=60
+k3.jpg                  891         27140    JPEG Quality=60
+j4.jpg                  462         27140    JPEG Quality=60
+j1.jpg                  378         27140    JPEG Quality=60
+j2.jpg                  424         27140    JPEG Quality=60
+j3.jpg                  364         27140    JPEG Quality=60
+i4.jpg                  502         27140    JPEG Quality=60
+i1.jpg                  766         27140    JPEG Quality=60
+i2.jpg                  512         27140    JPEG Quality=60
+i3.jpg                  625         27140    JPEG Quality=60
+h4.jpg                  576         27140    JPEG Quality=60
+h1.jpg                  909         27140    JPEG Quality=60
+h2.jpg                  902         27140    JPEG Quality=60
+h3.jpg                  714         27140    JPEG Quality=60
+g4.jpg                  716         27140    JPEG Quality=60
+g1.jpg                 1013         27140    JPEG Quality=60
+g2.jpg                  823         27140    JPEG Quality=60
+g3.jpg                  919         27140    JPEG Quality=60
+f4.jpg                  707         27140    JPEG Quality=60
+f1.jpg                  793         27140    JPEG Quality=60
+f2.jpg                  881         27140    JPEG Quality=60
+f3.jpg                  725         27140    JPEG Quality=60
+e4.jpg                  739         27140    JPEG Quality=60
+e1.jpg                  685         27140    JPEG Quality=60
+e2.jpg                  802         27140    JPEG Quality=60
+e3.jpg                  766         27140    JPEG Quality=60
+d4.jpg                  676         27140    JPEG Quality=60
+d1.jpg                  750         27140    JPEG Quality=60
+d2.jpg                  799         27140    JPEG Quality=60
+d3.jpg                  766         27140    JPEG Quality=60
+c4.jpg                  626         27140    JPEG Quality=60
+c1.jpg                  663         27140    JPEG Quality=60
+c2.jpg                  596         27140    JPEG Quality=60
+c3.jpg                  780         27140    JPEG Quality=60
+b4.jpg                 3502         27140    Imported JPEG=102
+b1.jpg                10981         27140    Imported JPEG=102
+b2.jpg                10755         27140    Imported JPEG=102
+b3.jpg                10502         27140    Imported JPEG=102
+a4.jpg                  575         27140    JPEG Quality=60
+a1.jpg                  519         27140    JPEG Quality=60
+a2.jpg                  719         27140    JPEG Quality=60
+a3.jpg                  703         27140    JPEG Quality=60
+fonts_png.png         24353        991600    JPEG Quality=80
+map                  184499      27557088    JPEG Quality=70
+email                   194          1792    JPEG Quality=80
+twitter                 173           884    JPEG Quality=80
+facebook                167           720    JPEG Quality=80
+
+
+
+
